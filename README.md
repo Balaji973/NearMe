@@ -26,9 +26,11 @@ Execute the programs and publish them.
 
 ## CODE
 '''
+
 map.html
- <html>
-  <head>
+
+<html>
+<head>
 
 <title>My City</title>
     
@@ -49,8 +51,8 @@ map.html
 </h3>
     
 <center>
-    
-<img src="map.png" usemap="#MyCity" height="700" width="1450">
+  
+<img src="map.png" usemap="MyCity" height="700" width="1450">
     
 <map name="MyCity">
     
@@ -108,7 +110,7 @@ Tiruvannamalai District is divided into 5 educational district viz Tiruvannamala
 There are 417 Health Sub Centers and 114 Primary Health Centers and 20 Hospitals and one Government Medical College are funtioning for the service of people under the control of Public Health Department, Five vetinary hospitals and 113 dispensaries are functioning under the control of Animal Husbandry Department.
     </body>
 </html>
-dam.html
+ dam.html
 <html>
     <body bgcolor="green">
        <h2> SATHANUR DAM</h2>
@@ -119,7 +121,7 @@ dam.html
 
  </body>
 </html>
-river.html
+ river.html
 <html>
     <body bgcolor="blue">
        <h2> THENPANNAI RIVER</h2>
@@ -146,6 +148,7 @@ temple.html
 </body>
 </html>
 
+'''
 
 
 
