@@ -51,15 +51,15 @@ map.html
 </h3>
     
 <center>
-  
-<img src="map.png" usemap="MyCity" height="700" width="1450">
+    
+<img src="map.png" height="700" width="1450">
     
 <map name="MyCity">
     
 <area shape="rect" coords="600, 250, 800, 300" href="home.html" title="My Home Town" >
     
 <area shape="circle" coords="700, 200, 50" href="temple.html" title="Annamalaiyar Temple">
-    <area shape="circle" coords="100, 350, 50" href="dam.html" title="Sathanur Dam">
+<area shape="circle" coords="100, 350, 50" href="dam.html" title="Sathanur Dam">
    
 <area shape="circle" coords="400, 600, 50" href="river.html" title="River">
     </map>
@@ -67,7 +67,7 @@ map.html
 </center>
     
 </body>
-    </html>
+</html>
 
 
 home.html
